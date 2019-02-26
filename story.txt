@@ -1,5 +1,8 @@
 Once upon a time there was guy named John. John was a student at the University of Madison. John liked to enjoy the cityand go to the art mueseum every weekend.
-Starting spring semester 2019, John decided to take CS400 - a computer science course in which he will learn Java. However, he were swamped with homeworks and projects which exhaust all of his lively spirit. 
+Starting spring semester 2019, Joecided to take CS400 - a computer science course in which he will learn Java. However, he were swamped with homeworks and projects which exhaust all of his lively spirit. 
 Then he just gave up and choose another job---Delivery. He really enjoyed this job and earned a lot of money.
 
 This is a really simple story. Different CS people select different course to study. Some of them select operating system, and others choose machine learning.
+
+This is the end of the story. John now a happy delivery boy lived out the rest of his life delivering pizzas. he made alot of money and just kinda died late in life. 
+
